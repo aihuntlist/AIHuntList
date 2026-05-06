@@ -33,7 +33,9 @@
 
 Are you building something amazing in the AI space? Don't let it stay hidden. Join our growing ecosystem and reach thousands of AI enthusiasts.
 
-### **[👉 Submit Your AI Product to AIHuntList](https://aihuntlist.com/submit)** to boost your SEO with 50+ high DR backlinks
+### **[👉 Submit Your AI Product to AIHuntList](https://aihuntlist.com/submit)** 
+
+Boost your SEO with 50+ high DR backlinks.
 
 ---
 *Built with ❤️ for the AI Community. Stay hungry, stay innovative.*
